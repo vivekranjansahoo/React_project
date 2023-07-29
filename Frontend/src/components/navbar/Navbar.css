@@ -1,0 +1,48 @@
+ .navbar{
+        margin-top: 10px;
+        background-color:black;
+        color:white;
+        font-weight:bold;
+        font-size:14px;
+    }
+
+   
+
+    .navbar ul{
+        display: none;
+     }
+
+/* .mega-drop-down:not(:hover) .mega-menu ul li{
+    display:none;
+ } */
+
+ /* .mega-drop-down .mega-menu ul{
+    position: absolute;
+ } */
+
+ /* .mega-drop-down .mega-menu ul li{
+    background-color: white;
+    color:black;
+    display: flex;
+    flex-direction: column;
+    
+ } */
+
+ @media (min-width: 795px) {
+   
+    .navbar ul{
+        display: flex;
+        flex-wrap: wrap;
+        justify-items: center;
+        align-items: center;
+        list-style: none;
+        justify-content:space-evenly;
+        height:39px;
+    }
+    
+    
+    }
+    
+    
+
+    
