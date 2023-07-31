@@ -1,0 +1,45 @@
+.appp {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .product-container,
+  .cart-container {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .product-item,
+  .cart-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .product-item img,
+  .cart-item img {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .cart-container p {
+    text-align: right;
+    font-size: 18px;
+  }
+  

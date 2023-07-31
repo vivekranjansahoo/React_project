@@ -1,0 +1,78 @@
+.pl{
+position: relative;
+  text-align: center;
+  color: black;
+}
+
+.photo img{
+    height:100vh;
+    width:100%;
+}
+.photo2{
+    display:flex;
+}
+.photo2 img{
+    height:90%;
+    width:50%;
+}
+
+.photo3 img{
+    height:100%;
+    width:100%;
+}
+
+.tt1 {
+    position: absolute;
+    top: 50px;
+    right: 130px;
+    font-size:37px;
+    width:400px;
+    font-weight:bold;
+    /* border: 2px solid red; */
+    
+  }
+  .tt2 {
+    position: absolute;
+    top: 110px;
+    right: 130px;
+    font-size:20px;
+    width:350px;
+    font-weight:bold;
+    color: white;
+    background-color: black;
+    /* border: 2px solid red; */
+    
+  }
+
+  .photo3 .tt3 {
+    position: absolute;
+    top: 110px;
+    right: 130px;
+    font-size:20px;
+    width:350px;
+    font-weight:bold;
+    color: white;
+    background-color: black;
+    /* border: 2px solid red; */
+    
+  }
+
+  .photo3 .tt5{
+    position: absolute;
+    bottom: 450px;
+    left: 600px;
+    font-size:27px;
+    width:350px;
+    font-weight:bold;
+    color: black
+  }
+  .photo3 .tt6{
+    position: absolute;
+    bottom: 400px;
+    left: 600px;
+    font-size:20px;
+    width:350px;
+    font-weight:bold;
+    color: white;
+    background-color: black;
+  }

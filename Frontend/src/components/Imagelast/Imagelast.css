@@ -1,0 +1,29 @@
+.photo img{
+    height:100vh;
+    width:100%;
+}
+.photo2{
+    display:flex;
+}
+.photo2 img{
+    height:90%;
+    width:50%;
+}
+
+.photo3 img{
+    height:100%;
+    width:100%;
+}
+
+ /* video::-webkit-media-controls {
+    display: none;
+  } */
+
+  .txt{
+    padding:40px 200px;
+    /* border:2px solid red; */
+    display:flex;
+    justify-items:center;
+    justify-content:space-evenly;
+    font-size:18px;
+  }
