@@ -1,5 +1,7 @@
 # React_project
 
+live link : https://crateandbarrelecommerce.netlify.app/
+
  ![vivek](img/1.PNG)
  ![vivek](img/2.PNG)
  ![vivek](img/3.PNG)
