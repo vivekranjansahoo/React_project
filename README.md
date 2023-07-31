@@ -12,7 +12,6 @@
  ![vivek](img/10.PNG)
  ![vivek](img/11.PNG)
 ![vivek](img/12.PNG)
-![vivek](img/13.PNG)
 ![vivek](img/14.PNG)
 ![vivek](img/15.PNG)
  ![vivek](img/16.PNG)
