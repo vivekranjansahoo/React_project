@@ -1,0 +1,70 @@
+.photo{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.photo img{
+    height:100vh;
+    width:100%;
+}
+
+.txt1 {
+    position: absolute;
+    top: 50px;
+    left: 130px;
+    font-size:37px;
+    width:350px;
+    font-weight:bold;
+    /* border: 2px solid red; */
+    
+  }
+
+  .txt2 {
+    
+    position: absolute;
+    top: 170px;
+    left: 130px;
+    padding:10px 30px 10px 20px;
+    font-size:20px;
+    font-weight:bold;
+    background-color:rgb(33, 32, 32);
+    color:white;
+    
+  }
+
+  .txt3 {
+    position: absolute;
+    top: 800px;
+    right: 130px;
+    padding:10px 0px 10px 20px;
+    font-size:36px;
+    font-weight:bold;
+    color:white;
+    
+  }
+
+  .txt4 {
+    
+    position: absolute;
+    top: 870px;
+    right: 130px;
+    padding:10px 30px 10px 20px;
+    font-size:20px;
+    font-weight:bold;
+    background-color:rgb(255, 255, 255);
+    color:black;
+    
+  }
+
+  @media screen and (max-width: 768px) {
+    .txt1,.txt2,.txt3,.txt4 {
+      font-size: 1.5rem;
+      right: 170px;
+    }
+
+    .txt1{
+      left: 15px;
+    }
+
+  }

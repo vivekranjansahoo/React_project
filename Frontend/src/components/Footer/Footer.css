@@ -1,0 +1,83 @@
+.footer {
+border: 2px solid green;
+padding: 100px 200px 40px 200px;
+background-color: rgba(21, 16, 16, 0.771);
+color: white;
+}
+
+.topfooter{
+    padding:0px 0px 40px 0px;
+}
+
+.topfooter .ul{
+    display: flex;
+    /* border: 2px solid black; */
+    padding:0px 0px 40px 0px;
+    
+}
+
+.li{
+    display: flex;
+    width: 34%;
+    list-style: none;
+
+}
+
+#im{
+    width: 50px;
+    height: 50px;
+}
+.t{
+    padding: 0px 20px;
+}
+
+h2{
+    font-weight: bold;
+    padding:0px 0px 18px 0px;
+}
+
+.im img{
+    height: auto;
+    width: 100%;
+}
+
+li{
+    list-style: none;
+}
+
+#apple img{
+    width:150px;
+    height:130px;
+}
+
+.lasttext{
+    display:flex;
+}
+
+.lasttext h1{
+    font-size:40px;
+    font-weight:bold;
+    padding:0px 20px 0px 0px;
+}
+
+@media screen and (max-width: 768px) {
+
+    .lasttext{
+        display: flex;
+        margin-right: 100px;
+        /* border: 2px solid red; */
+        font-size: 1rem;
+    }
+
+    .am,.an{
+        font-size: 1rem;
+        display: flex;
+    }
+
+    .lasttext h1{
+        font-size: 1rem;
+    }
+
+    
+
+  }

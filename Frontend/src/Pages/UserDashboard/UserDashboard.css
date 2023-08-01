@@ -1,0 +1,49 @@
+.allcard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    /* border: 1px solid #ccc; */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    width: 300px;
+    margin: 16px;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .card-content {
+    margin-top: 12px;
+  }
+  
+  .card-content h3 {
+    margin: 0;
+  }
+  
+  .card-content p {
+    margin: 8px 0;
+  }
+
+  .bbb{
+    display: flex;
+  }
+
+  /* .mainpage{
+    border:2px solid red;
+    display:flex;
+  } */
+
+  /* .sort{
+    border:2px solid green;
+    height:50px;
+    position: absolute;
+    top:250px
+  } */
+  
