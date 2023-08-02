@@ -1,6 +1,6 @@
 # React_project
 
-live link : https://crateandbarrelecommerce.netlify.app/
+live link : https://crateandbarrelbytechgradiator.netlify.app/
 
  ![vivek](img/1.PNG)
  ![vivek](img/2.PNG)
