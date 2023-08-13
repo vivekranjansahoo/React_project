@@ -13,7 +13,7 @@ const ProductList = ({ products }) => {
     setSearchQuery(e.target.value);
   };
 
-  // Filter products based on the search query
+ 
   const filteredProducts = products.filter((product) =>
     product.name.toLowerCase().includes(searchQuery.toLowerCase())
   );
